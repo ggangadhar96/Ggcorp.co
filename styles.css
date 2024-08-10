@@ -1,34 +1,44 @@
 body {
-    background-color: #00203F;
-    color: #F2F2F2;
-    font-family: 'Times New Roman', serif;
-    background-image: url('royal-pattern.jpg'); /* Replace with your pattern */
-    background-size: cover;
-    background-attachment: fixed;
-  }
-  
-  header {
-    background-color: #001528;
-    color: #F2F2F2;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    padding: 20px;
-  }
-  
-  nav a {
-    color: #F2F2F2;
-    text-decoration: none;
-    margin-right: 20px;
-  }
-  
-  h1, h2 {
-    color: #B28F5D;
-    font-weight: bold;
-  }
-  
-  ul {
-    list-style: none;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
     padding: 0;
   }
   
-  /* Add more specific styles for other elements as needed */
+  header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #ddd;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #fff;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #fff;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li a {
+    color: #66ccff;
+  }
+  
+  ul li a:hover {
+    color: #0099cc;
+  }
   
