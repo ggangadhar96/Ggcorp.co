@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 import Hero from './components/Hero';
 import IndustryCard from './components/IndustryCard';
 import Footer from './components/Footer';
-import { industries } from './data/industries';
+import { industries } from './data/industries'; // Adjust based on your export choice
 
 export default function App() {
   return (
