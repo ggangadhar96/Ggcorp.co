@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #2e3a59;
+  color: white;
+  padding: 1em;
+}
+header h1 {
+  margin: 0;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  margin-right: 15px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+.hero {
+  background: #0070f3;
+  color: white;
+  padding: 2em;
+  text-align: center;
+}
+section {
+  padding: 2em;
+}
+footer {
+  background: #2e3a59;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
